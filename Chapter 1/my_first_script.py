@@ -5,5 +5,5 @@ Spyder Editor
 This is a temporary script file.
 """
 
-print("This is my first Python Script")
+print("This is my first Python Script!")
 
